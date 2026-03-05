@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ece445_SchematicSymbols")(type "KiCad")(uri "${KIPRJMOD}/ece445_SchematicSymbols.kicad_sym")(options "")(descr ""))
+)
